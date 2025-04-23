@@ -6,7 +6,7 @@ I'm currently pursuing a Bachelor's in Artificial Intelligence and using this sp
 🔥 Day 01: Unit Converter
 - Built a simple Program using Python, Java and C++ script to convert units like meters to kilometers, inches to centimeters, etc.
 - [Python](Day01_UnitConverter/Python/unit_converter.py)
-- [Java]()
+- [Java](Day01_UnitConverter/Java/UnitConverter.java)
 - [C++](Day01_UnitConverter/CPP/unit_converter.cpp)
 
 ## 💻 Tech Stack
