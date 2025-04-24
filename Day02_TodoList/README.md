@@ -16,5 +16,5 @@ Today's project is a To-Do List Manager implemented in Python and Java.
 - User input handling
 
 📁 Folder Structure:
--[Python]()
--[Java]()
+-[Python](Day02_TodoList/Python/todo_list.py)
+-[Java](Day02_TodoList/Java/TodoList.java)
