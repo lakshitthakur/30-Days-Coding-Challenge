@@ -21,5 +21,5 @@ This project is part of my [30 Days Coding Challenge](https://github.com/lakshit
 - Input Validation
 
 📁 Folder Structure:- 
-[HTML]()
-[Javascript]()
+[HTML](Day04_SimpleCalculator/Web/simplecalculator.html)
+[Javascript](Day04_SimpleCalculator/Web/calculator.js)
