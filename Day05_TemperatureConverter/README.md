@@ -18,5 +18,5 @@ This project is part of my [30 Days Coding Challenge](https://github.com/lakshit
 - Basic CSS Styling
 
 📁 Folder Structure:
-[HTML]()
-[CSS]()
+[HTML](Day05_TemperatureConverter/Web/tempconverter.html)
+[CSS](Day05_TemperatureConverter/Web/styles.css)
