@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>BMI Calculator</h2>
+        <input type="number" id="weight" placeholder="Weight (kg)">
+        <input type="number" id="height" placeholder="Height (m)">
+        <button onclick="calculateBMI()">Calculate BMI</button>
+        <h3 id="result"></h3>
+    </div>
+
+    <script>
+        function calculateBMI() {
+            const weight = parseFloat(document.getElementById('weight').value);
+            const height = parseFloat(document.getElementById('height').value);
+            const result = document.getElementById('result');
+
+            if (isNaN(weight) || isNaN(height) || weight <= 0 || height <= 0) {
+                result.innerText = "Please enter valid weight and height.";
+                return;
+            }
+
+            const bmi = weight / (height * height);
+            let category = "";
+
+            if (bmi < 18.5) {
+                category = "Underweight";
+            } else if (bmi >= 18.5 && bmi < 24.9) {
+                category = "Normal weight";
+            } else if (bmi >= 25 && bmi < 29.9) {
+                category = "Overweight";
+            } else {
+                category = "Obese";
+            }
+
+            result.innerText = `Your BMI is ${bmi.toFixed(2)} (${category})`;
+        }
+    </script>
+</body>
+</html>
