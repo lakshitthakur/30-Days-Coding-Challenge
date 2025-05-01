@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  background-color: #fffae6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+  width: 350px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+#joke-box p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #facc15;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
