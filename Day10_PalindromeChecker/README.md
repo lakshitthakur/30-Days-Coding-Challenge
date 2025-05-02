@@ -18,6 +18,6 @@ Input: `A man, a plan, a canal: Panama`
 Output: ✅ It's a palindrome!
 
 📁 Folder Structure
-[HTML]()
-[JavaScript]()
-[CSS]()
+[HTML](Day10_PalindromeChecker/Web/palindrome.html)
+[JavaScript](Day10_PalindromeChecker/Web/script.js)
+[CSS](Day10_PalindromeChecker/Web/style.css)
