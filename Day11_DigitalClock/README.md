@@ -19,6 +19,6 @@ This app displays a live, real-time clock that updates every second.
 - Learning DOM/time updates
 
 📁 Folder Structure:
-[HTML]()
-[JavaScript]()
-[CSS]()
+[HTML](Day11_DigitalClock/Web/digitalclock.html)
+[JavaScript](Day11_DigitalClock/Web/script.js)
+[CSS](Day11_DigitalClock/Web/style.css)
