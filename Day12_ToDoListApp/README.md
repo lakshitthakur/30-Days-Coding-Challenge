@@ -13,9 +13,9 @@ A simple To-Do List application that lets you:
 
 - Simple and clean UI
 - Live DOM updates (Web)
-- Realtime list management
+- Real-time list management
 
 📁 Folder Structure:
-[HTML]()
-[JavaScript]()
-[CSS]()
+[HTML](Day12_ToDoListApp/Web/todoapp.html)
+[JavaScript](Day12_ToDoListApp/Web/script.js)
+[CSS](Day12_ToDoListApp/Web/style.css)
