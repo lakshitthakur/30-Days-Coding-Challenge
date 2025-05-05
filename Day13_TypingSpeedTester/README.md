@@ -11,8 +11,8 @@ This project is a fun typing speed tester app built with:
 - Fun way to test typing skills!
 
 📁 Folder Structure:
-[HTML]()
-[Javascript]()
-[CSS]()
+[HTML](Day13_TypingSpeedTester/Web/typingspeed.html)
+[Javascript](Day13_TypingSpeedTester/Web/script.js)
+[CSS](Day13_TypingSpeedTester/Web/style.css)
 
 Web App versions provided for cross-practice.
