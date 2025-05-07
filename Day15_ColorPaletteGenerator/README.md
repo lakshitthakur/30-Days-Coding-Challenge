@@ -13,6 +13,6 @@ This project allows users to select a color and automatically generates its shad
 - Copy color to clipboard
 
 📁 Folder Structure:
-[HTML](Day15_ColorPaletteGenerator/Web/color)
+[HTML](Day15_ColorPaletteGenerator/Web/ColorPaletteGenerator.html)
 [CSS](Day15_ColorPaletteGenerator/Web/style.css)
 [JavaScript](Day15_ColorPaletteGenerator/Web/script.js)
