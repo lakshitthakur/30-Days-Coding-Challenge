@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Personality Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>What's Your Personality Type?</h1>
+    <form id="quizForm">
+      <div class="question">
+        <p>1. What's your ideal weekend?</p>
+        <label><input type="radio" name="q1" value="thinker"> Reading a book</label>
+        <label><input type="radio" name="q1" value="artist"> Painting/drawing</label>
+        <label><input type="radio" name="q1" value="adventurer"> Exploring outdoors</label>
+        <label><input type="radio" name="q1" value="peacekeeper"> Meditating or relaxing</label>
+      </div>
+
+      <!-- Repeat similar for Q2-Q5 -->
+      <!-- For brevity, keep to 3-5 questions -->
+
+      <button type="submit">See My Result</button>
+    </form>
+    <div id="result" class="result-box"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
